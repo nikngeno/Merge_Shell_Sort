@@ -1,0 +1,14 @@
+C:\Users\nicho\source\repos\Merge_Shell_Sort\bin\Debug\net8.0\Merge_Shell_Sort.exe
+C:\Users\nicho\source\repos\Merge_Shell_Sort\bin\Debug\net8.0\Merge_Shell_Sort.deps.json
+C:\Users\nicho\source\repos\Merge_Shell_Sort\bin\Debug\net8.0\Merge_Shell_Sort.runtimeconfig.json
+C:\Users\nicho\source\repos\Merge_Shell_Sort\bin\Debug\net8.0\Merge_Shell_Sort.dll
+C:\Users\nicho\source\repos\Merge_Shell_Sort\bin\Debug\net8.0\Merge_Shell_Sort.pdb
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.AssemblyInfoInputs.cache
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.AssemblyInfo.cs
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.dll
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\refint\Merge_Shell_Sort.dll
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.pdb
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\Merge_Shell_Sort.genruntimeconfig.cache
+C:\Users\nicho\source\repos\Merge_Shell_Sort\obj\Debug\net8.0\ref\Merge_Shell_Sort.dll
